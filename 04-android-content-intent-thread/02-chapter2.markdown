@@ -1,8 +1,12 @@
 # 02 Chapter 2 Content Provider, Intent, 线程
+
 ## Content Provider
+
 1. 结构化数据存储
 2. Uri
+
 ## Intent
+
 1. Intent
 + Component 
 + Action
@@ -10,7 +14,9 @@
 + Category
 + Extras
 2. Intent filters
+
 ## 线程
+
 + UI 线程
 + 线程安全、可重入
 + Handle
