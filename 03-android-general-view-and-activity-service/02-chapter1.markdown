@@ -9,6 +9,7 @@
 ## apk 简介
 
 APK是Android Package的缩写，即Android安装包。
+
 + apk 文件结构
 
 ## Activity
