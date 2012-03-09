@@ -27,9 +27,8 @@
   + LinerLayout
   + RelativeLayout
   + FrameLayout
-
-1. TabHost
-2. 桌面
+      1. TabHost
+      2. 桌面
   + AbsoluteLayout
   + TableLayout
 
