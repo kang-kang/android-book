@@ -4,7 +4,7 @@
 
 1. View，View Group
 2. XML
-+ 布局
+  + 布局
 
 3. Input Event
 4. Action Bar
